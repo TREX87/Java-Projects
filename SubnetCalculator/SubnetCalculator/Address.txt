@@ -1,0 +1,8 @@
+Network Address: 192.122.3.0 /27
+Broadcast Address: 192.122.3.31 /27
+# Hosts: 31
+Subnet Mask: 255.255.255.224
+Mask Bits: 27
+Binary network address: 11000000.01111010.00000011.00000000
+Binary broadcast address: 11000000.01111010.00000011.00011111
+Binary subnet mask: 11111111.11111111.11111111.11100000
